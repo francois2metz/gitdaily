@@ -4,6 +4,10 @@ A new useful git command each day for @af83 developers.
 
 SVG and PNG came from [Geekscottes](http://www.nojhan.net/geekscottes/) and are licenced with [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/).
 
+## Dependencies
+
+Git >= 1.7 is needed.
+
 ## License
 
             DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
